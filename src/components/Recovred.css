@@ -1,0 +1,45 @@
+.recover_area{
+    background-color: rgb(2, 2, 2);
+    height: 100vh;
+}
+
+/* .recover_area h1{
+    color: black;
+    font-size: 50px;
+    color: rgb(131, 54, 54);
+    text-shadow: 5px 5px 5px rgb(122, 92, 9);
+    cursor: pointer;
+
+
+} */
+
+.recover_area p{
+    color: greenyellow;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 5px 5px 5px green;
+}
+
+navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.logo{
+    font-size: 30px;
+    color: white;
+}
+.logo_c{
+    font-size: 50px;
+    color: rgb(180, 29, 29);
+}
+.nav_right{
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    margin-top: 20px;
+}
+.recover_head{
+    color: rgb(148, 119, 133);
+}
